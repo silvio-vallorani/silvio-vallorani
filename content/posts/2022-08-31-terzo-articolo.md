@@ -2,9 +2,9 @@
 title: Terzo Articolo
 description: Questo è il terzo articolo che scrivo
 date: 2022-08-31T07:55:37.876Z
-preview: /static/roady2.jpg
+preview: /silvio-vallorani/roady2.jpg
 cover:
-  image: /static/roady2.jpg
+  image: /silvio-vallorani/roady2.jpg
   alt: Mia moto 2
   caption: null
   relative: false
