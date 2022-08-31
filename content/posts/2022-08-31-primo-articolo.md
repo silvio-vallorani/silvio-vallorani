@@ -17,6 +17,4 @@ tags:
 
 Primo articolo che scrivo!!!
 
-![Io](/io.jpg)
-
 bla bla bla 1

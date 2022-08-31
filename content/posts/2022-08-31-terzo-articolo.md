@@ -5,7 +5,7 @@ date: 2022-08-31T07:55:37.876Z
 preview: /roady2.jpg
 cover:
   image: /roady2.jpg
-  alt: Io
+  alt: Mia moto 2
   caption: null
   relative: false
 draft: false
@@ -16,7 +16,5 @@ categories:
 ---
 
 Terzo articolo che scrivo!!!
-
-![Io](/roady2.jpg)
 
 bla bla bla 3
