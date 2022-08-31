@@ -8,7 +8,7 @@ cover:
   alt: Io
   caption: null
   relative: false
-draft: true
+draft: false
 tags:
   - free time
 categories:

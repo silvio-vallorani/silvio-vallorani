@@ -8,7 +8,7 @@ cover:
   alt: Io
   caption: null
   relative: false
-draft: true
+draft: false
 categories:
   - Me MySelf and I
 tags:
