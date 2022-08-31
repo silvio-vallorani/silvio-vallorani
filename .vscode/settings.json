@@ -1,0 +1,6 @@
+{
+    "[markdown]": {
+    },
+    "frontMatter.preview.host": "http://localhost:1313/",
+    "frontMatter.content.autoUpdateDate": true
+}
