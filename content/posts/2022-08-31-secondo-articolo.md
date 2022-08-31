@@ -2,9 +2,9 @@
 title: Secondo Articolo
 description: Questo è il secondo articolo che scrivo
 date: 2022-08-31T07:45:21.861Z
-preview: /roady.png
+preview: /silvio-vallorani/roady.png
 cover:
-  image: /roady.png
+  image: /silvio-vallorani/roady.png
   alt: Mia moto
   caption: null
   relative: false

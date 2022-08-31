@@ -2,9 +2,9 @@
 title: Primo Articolo
 description: Questo è il primo articolo che scrivo
 date: 2022-08-31T07:45:15.029Z
-preview: /io.jpg
+preview: /silvio-vallorani/io.jpg
 cover:
-  image: /io.jpg
+  image: /silvio-vallorani/io.jpg
   alt: Io
   caption: null
   relative: false
