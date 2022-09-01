@@ -1,7 +1,7 @@
 baseURL = 'https://silvio-vallorani.github.io/silvio-vallorani/'
 languageCode = 'it-it'
 title = 'My Thoughts'
-theme = 'hugo-PaperMod'
+theme = 'my-Hugo-PaperMod'
 disqusShortname = 'svallo'
 [menu]
     [[menu.main]]
