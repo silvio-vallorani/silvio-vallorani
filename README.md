@@ -5,11 +5,33 @@
 # Hi, I am Silvio Vallorani 👋🏼
 
 <!--  BRIEF SKILLS  -->
-<p align="center"> 👨‍💻 Senior HW & FW Developer at <a href="https://inim.biz">INIM Electronics s.r.l.</a> | 📶 LTE Expert | 🪁 Zephyr/IoT Addicted | 🎉 Matter Enthusiastic</p>
+👨‍💻 Senior HW & FW Developer at [INIM Electronics s.r.l.](https://inim.biz) | 📶 LTE Expert | 🪁 Zephyr/IoT Addicted | 🎉 Matter Enthusiastic | 🧠 TinyML/AIoT Curious | 🔄 HWIL DevSecOps CI/CD Dreamer
 
 <!--  BIO  -->
 ## 👤 Who am I ?!
 
+**Passionated Senior Developer with over 12 years of
+industrial experience in hardware and firmware design,
+implementation, and troubleshooting.**
+
+Skilled in rapid prototyping and collaborating across
+disciplines to deliver innovative solutions on time and
+within budget.
+
+In my actual position I daily works on
+- Designing devices for intrusion detection and building
+automation systems - like keypads, rfid readers, mobile
+communicatiors, domotics actuators - including
+schematics and PCB validation.
+- Writing microcontrollers firmware, optimizing
+performance and power consumption.
+- Leading hardware troubleshooting efforts to identify and
+resolve issues effectively.
+- Doing code and/or schematics refactoring to quickly
+address the components shortage problem.
+
+For the more curious of you, here is my Curriculum Vitae:  
+[![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/52ba6c48d9198de20279885eadb761ae15a797d0/profile/RESUME-EN-SILVIO-VALLORANI-2024.pdf/)
 
 <!--  TOOLS LIST  -->
 ## ⚙️ My ToolBox encompasses:
@@ -21,6 +43,8 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/language)
 [![Python](https://img.shields.io/badge/-Python-FECC00?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Zephyr](https://img.shields.io/badge/-Zephyr_RTOS-A100FF?style=for-the-badge&logo=&logoColor=white)](https://zephyrproject.org/)
+[![embOS](https://img.shields.io/badge/-SEGGER_embOS-03234B?style=for-the-badge&logo=&logoColor=white)](https://segger.com/products/rtos/embos/)
+[![Ozone](https://img.shields.io/badge/-Ozone-666666?style=for-the-badge&logo=searxng&logoColor=white)](https://segger.com/products/development-tools/ozone-j-link-debugger/)
 [![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Eclipse](https://img.shields.io/badge/-Eclipse_Embedded_CDT-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://eclipse-embed-cdt.github.io/)
 [![Arm](https://img.shields.io/badge/-Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://arm.com/)
