@@ -1,5 +1,6 @@
 <!--  PROFILE COVER IMAGE  -->
-<img src="https://github.com/silvio-vallorani/silvio-vallorani/blob/65f0fe90b8c839b41fc2c2fcdde7d74c74b662a7/profile/cover.png" alt="silvio.vallorani">
+![silvio-vallorani](https://github.com/silvio-vallorani/silvio-vallorani/blob/65f0fe90b8c839b41fc2c2fcdde7d74c74b662a7/profile/cover.png)
+
 
 <!--  HELLO WOLRD  -->
 # Hi, I am Silvio Vallorani 👋🏼
