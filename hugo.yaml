@@ -1,0 +1,36 @@
+baseURL: https://silvio-vallorani.github.io/silvio-vallorani/
+languageCode: en-us
+title: Silvio Vallorani
+theme: PaperMod
+defaultTheme: auto
+
+params:
+  disableTitleFromHeader: true
+  disableThemeToggle: true
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+  profileMode:
+    enabled: true
+    title: "Hi, I am Silvio Vallorani 👋🏼"
+    subtitle: "👨‍💻 Senior HW & FW Developer | 📶 LTE Expert | 🌐 IoT Professionist | 🪁 Zephyr Addicted | 🧠 TinyML/AIoT Curious | 🎉 Matter Enthusiastic | 🔄 HWIL DevSecOps CI/CD Dreamer"
+    imageUrl: "selfie.jpg" # optional
+    imageTitle: "Selfie" # optional
+    imageWidth: 350 # custom size
+    imageHeight: 350 # custom size
+#    buttons: 
+#      - name: Archive
+#        url: "/archive"
+
+  socialIcons: # optional
+    - name: "LinkedIN"
+      url: "https://linkedin.com/in/silvio-vallorani"
+    - name: "GitHub"
+      url: "https://github.com/silvio-vallorani"
+    - name: "CV"
+      url: "resume.pdf"
+    - name: "Email"
+      url: "mailto:silvio.vallorani.dev@gmail.com"
