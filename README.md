@@ -6,7 +6,7 @@
 # Hi, I am Silvio Vallorani 👋🏼
 
 <!--  BRIEF SKILLS  -->
-👨‍💻 Senior HW & FW Developer at [INIM Electronics s.r.l.](https://inim.biz) | 📶 LTE Expert | 🪁 Zephyr/IoT Addicted | 🎉 Matter Enthusiastic | 🧠 TinyML/AIoT Curious | 🔄 HWIL DevSecOps CI/CD Dreamer
+👨‍💻 Senior HW & FW Developer at [INIM Electronics s.r.l.](https://inim.biz) | 📶 LTE Expert | 🌐 IoT Professionist | 🪁 Zephyr Addicted | 🧠 TinyML/AIoT Curious | 🎉 Matter Enthusiastic | 🔄 HWIL DevSecOps CI/CD Dreamer
 
 <!--  BIO  -->
 ## 👤 Who am I ?!
