@@ -59,6 +59,7 @@ For the more curious of you, here is my Curriculum Vitae:
 ## 🕸 Expand our network:
 
 ### **You can find me on:**
+[![WebSite](https://img.shields.io/badge/-Web_Space-0077B5?style=for-the-badge&logo=web&logoColor=white)](https://silvio-vallorani.github.io/silvio-vallorani/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-vallorani/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/615895803663220756)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvio.vallorani.dev@gmail.com)
@@ -68,7 +69,8 @@ For the more curious of you, here is my Curriculum Vitae:
 <!--  PROFILE VIEWS COUNTER  -->
 ![ProfileViewsCounter](https://komarev.com/ghpvc/?username=silvio-vallorani&label=PROFILE+VIEWS&style=for-the-badge&color=green)
 
-<!-- To upload custom images use https://elmah.io/tools/base64-image-encoder/ -->
+<!-- To upload custom images use https://www.base64-image.de -->
+<!-- To reduce svg size use https://jakearchibald.github.io/svgomg/ -->
 
 <!-- Zephyr badge with white logo -->
 <!--
