@@ -37,7 +37,7 @@ For the more curious of you, here is my Curriculum Vitae:
 ## ⚙️ My ToolBox encompasses:
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/-Windows-891B26?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows/)
+[![Windows](https://img.shields.io/badge/-Windows-0ABF53?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/cpp/language)
@@ -54,6 +54,7 @@ For the more curious of you, here is my Curriculum Vitae:
 [![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc/)
 [![RaspberryPi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://kicad.org/)
+[![Fritzing](https://img.shields.io/badge/-Fritzing-CC2424?style=for-the-badge&logo=fritzing&logoColor=white)](https://fritzing.org/)
 
 <!--  CONTACTS  -->
 ## 🕸 Expand our network:
