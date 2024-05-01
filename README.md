@@ -1,6 +1,5 @@
 <!--  PROFILE COVER IMAGE  -->
-![silvio-vallorani](https://github.com/silvio-vallorani/silvio-vallorani/blob/65f0fe90b8c839b41fc2c2fcdde7d74c74b662a7/profile/cover.png)
-
+![silvio-vallorani](https://github.com/silvio-vallorani/silvio-vallorani/blob/e7a0d846a61ae9613030c2a83caa2f1ae4f15451/static/cover.png)
 
 <!--  HELLO WOLRD  -->
 # Hi, I am Silvio Vallorani 👋🏼
@@ -32,7 +31,7 @@ resolve issues effectively.
 address the components shortage problem.
 
 For the more curious of you, here is my Curriculum Vitae:  
-[![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/52ba6c48d9198de20279885eadb761ae15a797d0/profile/RESUME-EN-SILVIO-VALLORANI-2024.pdf/)
+[![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/e7a0d846a61ae9613030c2a83caa2f1ae4f15451/static/resume.pdf)
 
 <!--  TOOLS LIST  -->
 ## ⚙️ My ToolBox encompasses:
