@@ -31,7 +31,7 @@ resolve issues effectively.
 address the components shortage problem.
 
 For the more curious of you, here is my Curriculum Vitae:  
-[![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/e7a0d846a61ae9613030c2a83caa2f1ae4f15451/static/resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/e0650618d735e2eef1918e6a4fc86982639a4c1c/static/resume.pdf)
 
 <!--  TOOLS LIST  -->
 ## ⚙️ My ToolBox encompasses:
