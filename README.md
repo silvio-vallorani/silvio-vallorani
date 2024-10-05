@@ -30,7 +30,7 @@ resolve issues effectively.
 - Doing code and/or schematics refactoring to quickly
 address the components shortage problem.
 
-### **_In my spare time I study the Zephyr Project in depth, my achievements can be followed in this [repository](https://github.com/silvio-vallorani/zephyr_devcontainer)._**
+### **_In my spare time I study the Zephyr Project in depth, my achievements can be followed in this [repository](https://github.com/silvio-vallorani-zephyr-portfolio/zephyr_portfolio)._**
 
 For the more curious of you, here is my Curriculum Vitae:  
 [![Resume](https://img.shields.io/badge/-Resume-FFFFFF?style=for-the-badge&logo=readme&logoColor=black)](https://github.com/silvio-vallorani/silvio-vallorani/blob/e0650618d735e2eef1918e6a4fc86982639a4c1c/static/resume.pdf)
