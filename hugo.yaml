@@ -17,7 +17,7 @@ params:
     enabled: true
     title: "Hi, I am Silvio Vallorani 👋🏼"
     subtitle: "👨‍💻 Senior Hw/Fw Dev | 📶 LTE Expert | 🌐 IoT Professionist | 🪁 Zephyr Addicted \r\n\r\n 🧠 TinyML/AIoT Curious | 🎉 Matter Enthusiastic | 🔄 HWIL DevOps CI/CD Dreamer \r\n\r\n --- \r\n\r\n In my spare time I study the Zephyr Project in depth, my achievements can be followed [here](https://github.com/silvio-vallorani-zephyr-portfolio/zephyr_portfolio)."
-    imageUrl: "selfie.jpg" # optional
+    imageUrl: "selfie.png" # optional
     imageTitle: "Selfie" # optional
     imageWidth: 350 # custom size
     imageHeight: 350 # custom size
